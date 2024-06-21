@@ -37,7 +37,7 @@ Detailed information on the results of these experiments and instructions on how
 
 ### 1.) How can gUCs be used to detect dirty data?
 
-Text missing
+The profile for gUCs mined in the Recommendations dataset gives rise to questions why certain gUC hold and others are not satisfied. This leads to a heuristic approach to find dirty data.
 
 ### 2.) How can gUCs increase query efficiency?
 
