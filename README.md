@@ -21,7 +21,7 @@ The software used to perform the experiments carried out in our research are:
 - Neo4j Browser 5.0.0
 
 
-The real world graph datasets (Recommendations) is provided along with other sample data sets in the [Neo4j Sandbox](https://sandbox.neo4j.com/). 
+The real world graph datasets (Recommendations) is provided along with other sample data sets in the [Neo4j Sandbox](https://sandbox.neo4j.com/) or can be downloaded from the following repository: [Neo4j recommendations](https://github.com/neo4j-graph-examples/recommendations). 
 
 
 ## Experiments:
