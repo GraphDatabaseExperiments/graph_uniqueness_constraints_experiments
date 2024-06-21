@@ -37,14 +37,14 @@ Detailed information on the results of these experiments and instructions on how
 
 ### 1.) How can gUCs be used to detect dirty data?
 
-The profile for gUCs mined in the Recommendations dataset gives rise to questions why certain gUC hold and others are not satisfied. This leads to a heuristic approach to find dirty data.
+The profiles for gUCs mined in the Recommendations dataset gives rise to questions why certain gUC hold and others are not satisfied. This leads to a heuristic approach to find dirty data.
 
 ### 2.) How can gUCs increase query efficiency?
 
-Text missing
+In order to showcase how gUCs can help to speed up query performance we have executed certain queries under different settings. To emulate enforcing a gUC with respective filtered index structure we have created a new artificial label on all nodes where the gUC should be enforced and created a new index for these nodes on respective properties. These queries have then been run on the original, unaltered dataset and on the dataset where we enforced the index. In addition, these experiments have been conducted on the original dataset and scaled up versions of it.
 
 ### 3.) How can gUCs increase update efficiency?
 
-Text missing 
+To illustrate the benefits of gUCs for update operations we proceeded with a similar experiment setup as for the experiments for query performance. Here, the speed-ups provided through direct data access faciliated through the index structure becomes even more obvious.
 
 
