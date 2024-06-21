@@ -28,9 +28,9 @@ The real world graph datasets (Recommendations) is provided along with other sam
 
 The experiments in our research on gUCs and following sections providing answers to the corresponding questions:
 
-- 1.) [How can gUCs be used to detect dirty data?]()
-- 2.) [How can gUCs increase query efficiency?]()
-- 3.) [How can gUCs increase update efficiency?]()
+- 1.) [How can gUCs be used to detect dirty data?](https://github.com/GraphDatabaseExperiments/graph_uniqueness_constraints_experiments/tree/main/experiments/1_How_can_gUCs_be_used_to_detect_dirty_data)
+- 2.) [How can gUCs increase query efficiency?](https://github.com/GraphDatabaseExperiments/graph_uniqueness_constraints_experiments/tree/main/experiments/2_How_can_gUCs_increase_query_efficiency)
+- 3.) [How can gUCs increase update efficiency?](https://github.com/GraphDatabaseExperiments/graph_uniqueness_constraints_experiments/tree/main/experiments/3_How_can_gUCs_increase_update_efficiency)
 
 
 Detailed information on the results of these experiments and instructions on how to replicate them can be found in this repository in the experiments folder or by clicking on the links above. In what follows we like to provide an overview on the different experiments.
